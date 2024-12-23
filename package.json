@@ -4,6 +4,7 @@
   "module": "index.js",
   "type": "module",
   "devDependencies": {
+    "@biomejs/biome": "1.9.4",
     "bun-types": "latest"
   },
   "peerDependencies": {
